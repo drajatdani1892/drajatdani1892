@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**drajatdani1892/drajatdani1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan saya **Muhammad Drajat Ramdhani**.\
 
-Here are some ideas to get you started:
+Saya seorang Mahasiswa di **Universitas Muhammadiyah Sukabumi** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya Tertarik di bidang :
+* **UI/UX Design**
+* **Front-end Web**
+
+Akun utama [Github](https://github.com/drajatdani1892/).
+
+
